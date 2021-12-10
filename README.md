@@ -12,6 +12,7 @@ Be aware that the program prints a decent amount of output to the console when t
 
 
 To generate RaceCondtions: 
+
 -Switch to the "raceCondition" branch on this github page
 
 -Download the RaceCondition.java (and README.md if you wish)
