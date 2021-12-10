@@ -12,7 +12,7 @@ Be aware that the program prints a decent amount of output to the console when t
 
 
 To generate RaceCondtions: 
--Switch to the "raceCondition" branch on this github page
+-Switch to the "raceCondition" branch on this github page \n
 -Download the RaceCondition.java (and README.md if you wish)
 -Run the same terminal commands listed above.
 -The program will encounter a race condition randomly (but essentially guaranteed) and stop when it does.
